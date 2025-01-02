@@ -1,0 +1,25 @@
+{
+  "name": "express-ts-jump-start",
+  "description": "This jump start teamplate for node,express with typescript and database connection.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dot-env": "^0.0.1",
+    "express": "^4.21.2",
+    "express-validator": "^7.2.1",
+    "mongoose": "^8.9.3",
+    "undici-types": "^6.20.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mongoose": "^5.11.97",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Parmar",
+  "license": "ISC"
+}
